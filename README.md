@@ -1,0 +1,3 @@
+- npm install
+- Launch app : monaca preview
+- Open browser on : http://localhost:8000
